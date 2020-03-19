@@ -1,6 +1,12 @@
 # Betfair Exchange Trading Project
 
-This project is focussed on constructing an agent that acts on the Betfair Exchange to perform trades given some specified criteria derived from previous market data.
+_This project is focussed on constructing an agent that acts on the Betfair Exchange to perform trades given some specified criteria derived from previous market data._
+
+__Motivation__
+
+__Build Status__
+
+__Code Style__
 
 __Data__
 
