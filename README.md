@@ -11,7 +11,8 @@ __Code Style__
 __Data__
 
 The historical market data is taken from the Betwise Smartform Racing Database : https://www.betwise.co.uk/smartform.
-The daily data is streamed using the ```betfairlightweight``` package : https://github.com/liampauling/betfair
+
+The daily data is streamed using the ```betfairlightweight``` package : https://github.com/liampauling/betfair.
 
 
 __Packages__
