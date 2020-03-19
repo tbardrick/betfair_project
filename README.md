@@ -10,12 +10,14 @@ __Code Style__
 
 __Data__
 
-The previous market data is taken from the Betwise Smartform Racing Database : https://www.betwise.co.uk/smartform.
+The historical market data is taken from the Betwise Smartform Racing Database : https://www.betwise.co.uk/smartform.
+The daily data is streamed using the ```betfairlightweight``` package : https://github.com/liampauling/betfair
+
 
 __Packages__
 
 The necessary packages/dependencies to be installed are:
-- ```betfairlightweight```
+- ```betfairlightweight``` : Lightweight, super fast (uses c libraries) pythonic wrapper for Betfair API-NG allowing all betting operations (including market and order streaming) and account operations.
 - ```sqlalchemy```
 - ```pymysql```
 - ```pandas```
