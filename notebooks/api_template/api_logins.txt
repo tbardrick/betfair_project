@@ -1,7 +1,0 @@
-{ 
-"my_username" : "TBARDRICK", 
-"my_password" : "Royalm22", 
-"my_app_key" : "fsGzlDIhdkoSjbZR", 
-"certs_path" : "/Users/tombardrick/Documents/Horses/betfair/certs"
-}
-
