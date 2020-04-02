@@ -4,7 +4,7 @@ _This project builds a Betfair Exchange trading agent that executes market order
 
 __File Structure__
 
-The folder/file structure & naming conventions are inspired by 'Cookiecutter Data Science' : https://drivendata.github.io/cookiecutter-data-science/ 
+The folder/file structure & naming conventions are taken from 'Cookiecutter Data Science' : https://drivendata.github.io/cookiecutter-data-science/ 
 
 __Data__
 
