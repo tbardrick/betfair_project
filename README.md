@@ -1,10 +1,6 @@
 # Betfair Exchange Trading Project
 
-_This project builds a Betfair Exchange trading bot that executes market orders based on some 'pre-specified' criteria derived from previous market data._
-
-__Motivation__
-
-__Build Status__
+_This project builds a Betfair Exchange trading agent that executes market orders based on 'pre-specified' criteria derived from previous market data._
 
 __File Structure__
 
