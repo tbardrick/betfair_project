@@ -1,14 +1,10 @@
 # Betfair Exchange Trading Project
 
-_This project builds a Betfair Exchange trading bot that executes market orders based on some 'pre-specified' criteria derived from previous market data._
-
-__Motivation__
-
-__Build Status__
+_This project builds a Betfair Exchange trading agent that executes market orders based on 'pre-specified' criteria derived from previous market data._
 
 __File Structure__
 
-The folder/file structure & naming conventions are inspired by 'Cookiecutter Data Science' : https://drivendata.github.io/cookiecutter-data-science/ 
+The folder/file structure & naming conventions are taken from 'Cookiecutter Data Science' : https://drivendata.github.io/cookiecutter-data-science/ 
 
 __Data__
 
