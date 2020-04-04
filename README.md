@@ -10,7 +10,7 @@ The folder/file structure & naming conventions are taken from: https://drivendat
 
 - `notebooks` : Contains jupyter notebooks to document data analysis, general research and model testing.
 
-- `src` : contains scripts to place trades.
+- `src` : Contains scricpts for the trading bot that interact and place bets on the API.
 
 __Login Credentials__
 
@@ -34,8 +34,6 @@ Usernames & Passwords should be stored within the git root folder and follow the
 "certs_path" : "YOUR_CERTIFICATE_PATH"
 }
 ```
-
-BetfairAPI
 
 __Data__
 
