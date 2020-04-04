@@ -6,9 +6,11 @@ __File Structure__
 
 The folder/file structure & naming conventions are taken from: https://drivendata.github.io/cookiecutter-data-science/.
 
-`data` : Stores samples of data here. Source data is to be saved locally in MySQL database.
-`notebooks` : Contains jupyter notebooks to document data analysis, general research and model testing.
-`src` : contains scripts to place trades.
+- `data` : Stores samples of data here. Source data is to be saved locally in MySQL database.
+
+- `notebooks` : Contains jupyter notebooks to document data analysis, general research and model testing.
+
+- `src` : contains scripts to place trades.
 
 __Login Credentials__
 
