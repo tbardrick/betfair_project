@@ -10,7 +10,7 @@ The folder/file structure & naming conventions are taken from: https://drivendat
 
 - `notebooks` : Contains jupyter notebooks to document data analysis, general research and model testing.
 
-- `src` : Contains scripts for the trading bot that interact and place bets on the API.
+- `src` : Contains scripts for the trading bot that interacts and place bets on the API.
 
 __Login Credentials__
 
