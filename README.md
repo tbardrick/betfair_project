@@ -20,7 +20,7 @@ Credentials should be stored within `.json` files at the git root directory and 
 ```
 { 
 "UID" : "YOUR_USERNAME",
-"PWD" : "YOUR_PASSWORD,
+"PWD" : "YOUR_PASSWORD",
 "DB" : "YOUR_DATABASE_NAME"
 }
 ```
@@ -30,7 +30,7 @@ Credentials should be stored within `.json` files at the git root directory and 
 { 
 "my_username" : "YOUR_BETFAIR_USERNAME", 
 "my_password" : "YOUR_BETFAIR_PASSWORD", 
-"my_app_key" : "YOUR_APP_KEY, 
+"my_app_key" : "YOUR_APP_KEY", 
 "certs_path" : "YOUR_CERTIFICATE_PATH"
 }
 ```
