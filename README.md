@@ -14,7 +14,7 @@ The folder/file structure & naming conventions are taken from: https://drivendat
 
 __Login Credentials__
 
-Usernames & Passwords should be stored within the git root folder and follow the format below;
+Credentials should be stored within `.json` files at the git root directory and follow the format below;
 
 `sql_logins.json` :
 ```
