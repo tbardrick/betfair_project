@@ -1,3 +1,7 @@
 *.json
 *.txt
 *.ipynb_checkpoints
+*.crt
+*.csr
+*.key
+data/raw
