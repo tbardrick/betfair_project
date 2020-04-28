@@ -4,4 +4,4 @@
 *.crt
 *.csr
 *.key
-data/
+data/raw
